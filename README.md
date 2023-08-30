@@ -1,1 +1,1 @@
-# software-testing-automationn-bluestone
+Manual Testing Bluestone
